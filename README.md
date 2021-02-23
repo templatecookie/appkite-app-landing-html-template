@@ -6,4 +6,4 @@ This project is a bootstrap version [Appkite App Landing Page](http://echotempla
 
 Check the [Live Demo here](http://vuejs.creative-tim.com/vue-light-bootstrap-dashboard).
 
-![](screenshot.PNG)
+![](screenshot.png)
