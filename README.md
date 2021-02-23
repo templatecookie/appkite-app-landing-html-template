@@ -1,4 +1,4 @@
-# [Appkite App Landing Page](http://echotemplate.com) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
+# [Appkite App Landing Page](http://echotemplate.com)
 
 > App landing html template based on bootstrap framework
 
