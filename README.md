@@ -1,5 +1,5 @@
 # [Echotemplate.com](https://echotemplate.com)
-FREE UI & HTML Templates for Designer and Developer. Echotemplate is a place where a team of design & developers create beautiful templates.
+FREE UI & HTML Templates for Designer and Developer. Echotemplate is a place where a team of design & developers create beautiful templates. Visit [Echotemplate.com](https://echotemplate.com) for more updates.
 
 # [Appkite App Landing Page](https://www.echotemplate.com/templates/appkite-app-landing-template)
 
