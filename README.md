@@ -11,9 +11,7 @@ Check the [Live Demo here](https://appkite-html.netlify.app/).
 
 ## Pages List
 - 3+ Home (Landing Page)
-- Blog
-- Blog Details
-
+  
 ## Framework & Technologies
 - bootstrap4
 - jQuery
